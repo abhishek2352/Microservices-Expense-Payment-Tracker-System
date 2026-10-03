@@ -1,0 +1,12 @@
+com\example\notificationservice\event\TransactionEvent.class
+com\example\notificationservice\model\Notification.class
+com\example\notificationservice\NotificationServiceApplication.class
+com\example\notificationservice\util\CorrelationIdUtil.class
+com\example\notificationservice\controller\NotificationController.class
+com\example\notificationservice\exception\NotificationExceptionHandler.class
+com\example\notificationservice\consumer\TransactionEventConsumer.class
+com\example\notificationservice\service\NotificationService.class
+com\example\notificationservice\config\KafkaConfig.class
+com\example\notificationservice\model\ErrorResponse.class
+com\example\notificationservice\filter\CorrelationIdFilter.class
+com\example\notificationservice\repository\NotificationRepository.class

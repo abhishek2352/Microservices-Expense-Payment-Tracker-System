@@ -1,0 +1,12 @@
+com\example\reportingservice\model\TransactionSummary.class
+com\example\reportingservice\util\CorrelationIdUtil.class
+com\example\reportingservice\event\TransactionEvent.class
+com\example\reportingservice\repository\TransactionSummaryRepository.class
+com\example\reportingservice\service\ReportingService.class
+com\example\reportingservice\controller\ReportingController.class
+com\example\reportingservice\exception\ReportingExceptionHandler.class
+com\example\reportingservice\ReportingServiceApplication.class
+com\example\reportingservice\model\ErrorResponse.class
+com\example\reportingservice\config\KafkaConfig.class
+com\example\reportingservice\consumer\TransactionEventConsumer.class
+com\example\reportingservice\filter\CorrelationIdFilter.class
